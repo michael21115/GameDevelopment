@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RaycastDemo.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RigidbodyControllerBlank.cs">
     <Files>
       <File FileName="Assets/RaycastDemo.cs" Line="31" Column="37" />
-      <File FileName="Assets/KDashCoinClick.cs" Line="7" Column="30" />
+      <File FileName="Assets/KDashCoinClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/RigidbodyControllerBlank.cs" Line="27" Column="101" />
+      <File FileName="../TerrainProject/Assets/Scripts/VectorFun.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
