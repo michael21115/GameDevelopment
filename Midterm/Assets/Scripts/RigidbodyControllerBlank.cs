@@ -5,7 +5,7 @@ public class RigidbodyControllerBlank : MonoBehaviour {
 
 	//Variables
 	float turnSpeed = 500f;
-	float moveSpeed = 300f;
+	float moveSpeed = 500f;
 	float jumpForce = 500f;
 
 	public float maxSpeed = 300f;

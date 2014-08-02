@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/MuseumThief/Assets/Scripts/DefineRoomSize.cs">
+    <Files>
+      <File FileName="../../Documents/MuseumThief/Assets/Scripts/DefineRoomSize.cs" Line="12" Column="135" />
+      <File FileName="Assets/Scripts/ProcGenBasic.cs" Line="48" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
